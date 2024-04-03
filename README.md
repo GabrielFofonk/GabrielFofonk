@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Fofonka. 👋
 
 <div>
-       <a href="https://github.com/GabrielFofonk">
        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielFofonk&show_icons=true&theme=gotham"/>
        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFofonk&show_icons=true&theme=gotham"/>  
 </div>
